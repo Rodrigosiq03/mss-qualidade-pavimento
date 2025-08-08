@@ -1,0 +1,13 @@
+Flask==3.1.1
+functions-framework==3.9.1
+gunicorn==23.0.0
+python-dotenv==1.1.1
+requests==2.32.4
+flask-cors==6.0.1
+sqlalchemy==2.0.41
+shapely==2.0.7
+pyproj==3.7.1
+pytest==8.4.1
+pytest-integration==0.2.3
+pytest-cov==6.2.1
+psutil==7.0.0

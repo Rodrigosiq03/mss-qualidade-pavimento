@@ -1,0 +1,19 @@
+__pycache__/
+
+venv/
+.venv/
+
+# Python bytecode files
+*.pyc
+*.pyo
+# C extensions
+*.so
+# Distribution / packaging
+.Python
+
+
+.env
+
+.pytest_cache/
+
+.coverage
