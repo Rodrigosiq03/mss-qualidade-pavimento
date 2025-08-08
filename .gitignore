@@ -12,8 +12,6 @@ venv/
 .Python
 
 
-.env
-
 .pytest_cache/
 
 .coverage
